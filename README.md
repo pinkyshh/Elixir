@@ -2,7 +2,7 @@
 An iOS application to showcase luxury brand perfumes in categories, making it easier for users to find what to buy. It also provides useful information about perfumes and how a user can find their type. 
 
 # Platform
-The application is being developed on Xcode using Swift UI. It will have web API connections and Firebase.
+The application is being developed on Xcode using Swift UI. It will have connections to web API and firebase.
 The features of the application include :
   - User login and sign up
   - Product listing 
