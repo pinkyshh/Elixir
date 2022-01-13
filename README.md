@@ -19,7 +19,7 @@ The UI was designed in a dark theme mode using Adobe XD. It incorporates many as
 
 (2) Product display with information
 
-<img src="https://user-images.githubusercontent.com/74553566/149340500-3144a581-47c0-4d70-9374-eebef2634377.png" width="200" height="400" />     <img src="https://user-images.githubusercontent.com/74553566/149340525-cb3e2e12-8918-45bc-8e66-92951c23c8e2.png" width="200" height="400" />     <img src="https://user-images.githubusercontent.com/74553566/149340524-7e34e00d-8a87-4c4a-993f-569f6d80a86d.png" width="200" height="600" />     <img src="https://user-images.githubusercontent.com/74553566/149340519-9f946209-0f79-496f-a725-a124e14d016d.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/74553566/149340500-3144a581-47c0-4d70-9374-eebef2634377.png" width="200" height="400" /> --> <img src="https://user-images.githubusercontent.com/74553566/149340525-cb3e2e12-8918-45bc-8e66-92951c23c8e2.png" width="200" height="400" /> --> <img src="https://user-images.githubusercontent.com/74553566/149340524-7e34e00d-8a87-4c4a-993f-569f6d80a86d.png" width="200" height="600" /> --> <img src="https://user-images.githubusercontent.com/74553566/149340519-9f946209-0f79-496f-a725-a124e14d016d.png" width="200" height="400" />
 
 (3) Perfume Notes Screen
 
